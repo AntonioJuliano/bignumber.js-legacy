@@ -1,0 +1,25 @@
+{
+  "name": "bignumber.js-legacy",
+  "version": "4.1.0",
+  "description": "Package that publishes a legacy version of bignumber.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioJuliano/bignumber.js-legacy.git"
+  },
+  "keywords": [
+    "bignumber.js"
+  ],
+  "author": "Antonio Juliano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioJuliano/bignumber.js-legacy/issues"
+  },
+  "homepage": "https://github.com/AntonioJuliano/bignumber.js-legacy#readme",
+  "dependencies": {
+    "bignumber.js": "^4.1.0"
+  }
+}
